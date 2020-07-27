@@ -10,13 +10,6 @@ Personal music site built with Nuxt and [Cosmic JS](https://cosmicjs.com/buckets
 
 Import example [bucket.json](bucket.json) to your Cosmic JS bucket.
 
-### Clone this repository
-
-``` bash
-git clone https://github.com/cosmicjs/vue-music-website
-cd vue-music-website
-```
-
 ### Configure
 
 Edit `instance.config.js` to adjust app colors if you need.
