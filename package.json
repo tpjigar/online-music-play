@@ -19,7 +19,7 @@
     "cosmicjs": "^3.2.12",
     "moment": "^2.22.2",
     "node-sass": "^4.9.2",
-    "nuxt": "^1.0.0",
+    "nuxt": "^3.0.0",
     "pug": "^2.0.3",
     "pug-plain-loader": "^1.0.0",
     "sass-loader": "^7.0.3",
